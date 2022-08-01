@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>C&#43;&#43; on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 04 Dec 2019 09:14:05 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>C&#43;&#43;变参宏的一个跨平台兼容问题</title>
+        <link>https://www.oser.space/post/trailing_comma/</link>
+        <pubDate>Wed, 04 Dec 2019 09:14:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:19:32 +0800</atom:modified>
+        <guid>https://www.oser.space/post/trailing_comma/</guid>
+        <description>由一个尾部逗号的问题，会引发不同平台编译器对变参宏的展开的问题，比如如下的一个例子： #define NEW_LOG(formatmsg, ...) fprintf(stdout, &amp;quot;%s(%u): &amp;quot; formatmsg &amp;quot;\n&amp;quot;, __FILE__, __LINE__, __VA_ARGS__) 如果传一个可变参数，则编译正常 NEW_LOG(&amp;quot;test for num: %d&amp;quot;, 100); 这时候宏展开是这样的 fprintf(stdout, &amp;quot;%s(%u): test for num: %d\n&amp;quot;, __FILE__,</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>C&#43;&#43;</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>upx压缩壳源码分析的一些关键点</title>
+        <link>https://www.oser.space/post/upx/</link>
+        <pubDate>Mon, 05 Mar 2018 02:00:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:19:57 +0800</atom:modified>
+        <guid>https://www.oser.space/post/upx/</guid>
+        <description>最近工作需要研究了一下upx针对可执行文件的压缩算法，就顺便理了一下代码的框架，下面大概的给一个分析过程。 编译调试 upx还是需要在32位linux下编译调试比较方便，windows</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>C&#43;&#43;</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Windows内核 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/windows%E5%86%85%E6%A0%B8/</link>
+    <description>Recent content in Windows内核 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 13 Dec 2019 17:41:17 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/windows%E5%86%85%E6%A0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>用户态文件系统，Dokany驱动代码分析</title>
+        <link>https://www.oser.space/post/dokany_sys/</link>
+        <pubDate>Fri, 13 Dec 2019 17:41:17 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:08:37 +0800</atom:modified>
+        <guid>https://www.oser.space/post/dokany_sys/</guid>
+        <description>前言 Dokany是一个Windows应用层的文件系统，还支持FUSE接口，google的Drive用的就是此驱动来映射驱动盘，此篇文章主要分析Dokany从应用层调用到驱动层的架构</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/dokany_sys/2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows内核</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows驱动开发总结(二)</title>
+        <link>https://www.oser.space/post/driver2/</link>
+        <pubDate>Thu, 06 Sep 2018 03:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:08:14 +0800</atom:modified>
+        <guid>https://www.oser.space/post/driver2/</guid>
+        <description>同步异步的两种用法 FILE_FLAG_OVERLAPPED异步打开参数 在CreateFile打开设备对象时 1 2 3 4 5 6 7 8 9 HANDLE CreateFile( LPCSTR lpFileName, DWORD dwDesiredAccess, DWORD dwShareMode, LPSECURITY_ATTRIBUTES lpSecurityAttributes, DWORD dwCreationDisposition, DWORD dwFlagsAndAttributes, //FILE_FLAG_OVERLAPPED HANDLE hTemplateFile ); 加入FILE_FLA</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/driver2/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows内核</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows驱动开发总结(一)</title>
+        <link>https://www.oser.space/post/driver1/</link>
+        <pubDate>Mon, 06 Aug 2018 05:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:08:52 +0800</atom:modified>
+        <guid>https://www.oser.space/post/driver1/</guid>
+        <description>最近在公司给同学们分享windows驱动和一些系统内核知识，顺便把总结的文档发一下做备忘记录。 1. windows内核对象 每个对象都有对象头和对象体组成。所有类型的对象头结构都是相同的</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/driver1/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows内核</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

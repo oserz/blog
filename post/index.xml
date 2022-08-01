@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/post/</link>
+    <description>Recent content in Posts on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Sep 2021 21:05:42 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>远程接入家里内网做开发的解决方案</title>
+        <link>https://www.oser.space/post/68d1386d-de3d-4893-91d1-673b88d9e25e/</link>
+        <pubDate>Thu, 23 Sep 2021 21:05:42 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Fri, 24 Sep 2021 11:04:28 +0800</atom:modified>
+        <guid>https://www.oser.space/post/68d1386d-de3d-4893-91d1-673b88d9e25e/</guid>
+        <description>前 现在忙带娃，时间太少了，文章更新的就慢很多了，最近抽空在家里部署了一套远程开发环境，具体怎么做的还是值得拿出来记录一下的。 中 这篇文章不谈具体技术，就讲一下思路而已。 目前家里已有设</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://5b0988e595225.cdn.sohucs.com/images/20180521/8c2d9a382c8c423c9e048d01607cf452.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>外挂NTFS盘用Docker部署NextCloud&#43;Caddy反向代理及一系列问题的解决</title>
+        <link>https://www.oser.space/post/7bd66d09-b059-48dd-af75-c7889e67fc24/</link>
+        <pubDate>Mon, 28 Dec 2020 15:32:10 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Tue, 18 Jan 2022 00:38:43 +0800</atom:modified>
+        <guid>https://www.oser.space/post/7bd66d09-b059-48dd-af75-c7889e67fc24/</guid>
+        <description>开始 私有网盘不用多说是大部分人都需要的东西，对比了几个开源的网盘，seafile,nextcloud,owncloud等，最终还是选择部署nextcloud，首先从文件保存上来说n</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://5b0988e595225.cdn.sohucs.com/images/20190418/4405672960b54ba2801f471c3df86962.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>给艰难的2020做一个总结</title>
+        <link>https://www.oser.space/post/a93ca7a9-e069-4165-af8b-f4463f2a26f0/</link>
+        <pubDate>Wed, 23 Dec 2020 11:58:23 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 24 Dec 2020 11:08:02 +0800</atom:modified>
+        <guid>https://www.oser.space/post/a93ca7a9-e069-4165-af8b-f4463f2a26f0/</guid>
+        <description>赶在2020年末还差几天，把今年做的事写一个小总结。 今年是过的特别不容易的一年，有喜有悲大起大落，喜的是下半年我的女儿出生了顺利的接回家到深圳，这对我来说是一件非常不容易的事，出生</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space//img/%E7%BB%99%E8%89%B0%E9%9A%BE%E7%9A%842020%E5%81%9A%E4%B8%80%E4%B8%AA%E6%80%BB%E7%BB%93/1024-1365.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>新版本Windbg的TTD调试技术</title>
+        <link>https://www.oser.space/post/fedc2467-03cf-42dd-8434-934a5524280d/</link>
+        <pubDate>Sun, 31 May 2020 15:42:00 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 22 Jul 2020 11:38:35 +0800</atom:modified>
+        <guid>https://www.oser.space/post/fedc2467-03cf-42dd-8434-934a5524280d/</guid>
+        <description>微软的新调试技术TTD Windows最近改动很大，除了20H1大版本上备受关注的WSL2和新的终端Terminal，其实在调试这块，新版本的Windbg preview也值得期待，开</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space//img/%E6%96%B0%E7%89%88%E6%9C%ACWindbg%E7%9A%84TTD%E8%B0%83%E8%AF%95%E6%8A%80%E6%9C%AF/windbg1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows开发调试</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>开发完成了网站的自动同步功能，写一些建站的那些小事</title>
+        <link>https://www.oser.space/post/916a48b7-55a4-4f78-a84a-d19e0ee85e01/</link>
+        <pubDate>Thu, 28 May 2020 17:06:24 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sun, 31 May 2020 19:00:21 +0800</atom:modified>
+        <guid>https://www.oser.space/post/916a48b7-55a4-4f78-a84a-d19e0ee85e01/</guid>
+        <description>几年前写了几篇如何在路由器上自建博客的文章，现在这篇文章主要是为以前的文章做补充总结和说明，鉴于一些朋友对这很有兴趣，所以要讲一下为什么用以前文章写的方式现在无法成功 在443端口未</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>SourceInsight4.00.0098的破解</title>
+        <link>https://www.oser.space/post/e5943765-2efe-48e4-b0a8-fc4034f13775/</link>
+        <pubDate>Wed, 27 May 2020 17:06:31 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:06:31 +0800</atom:modified>
+        <guid>https://www.oser.space/post/e5943765-2efe-48e4-b0a8-fc4034f13775/</guid>
+        <description>开头 能用到的这款代码分析软件的一般都熟悉，我就懒得介绍了，开始是不想折腾去逆向source insight的，后来网上搜好像找不到最新的破解版本，所以就自己花了点时间搞定了最新版本4</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/si40098/si2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>破解</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Go在windows上调用本地进程传参时的一个天坑</title>
+        <link>https://www.oser.space/post/gocmd/</link>
+        <pubDate>Wed, 15 Apr 2020 00:22:52 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sun, 23 Aug 2020 23:27:42 +0800</atom:modified>
+        <guid>https://www.oser.space/post/gocmd/</guid>
+        <description>go在windows上exec.Command调用本地进程在传参的时候有一个天坑，举个栗子来说正常来说一般代码会这么写 1 2 3 cmdLine := &amp;#34;notepad.exe &amp;#34; + `&amp;#34;D:\Program Files\Notepad++\session.xml&amp;#34;` cmd := exec.Command(&amp;#34;cmd.exe&amp;#34;, &amp;#34;/c&amp;#34;, cmdLine) err := cmd.Run() 我们期望在拉起notepa</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>2020年初的一个噩耗</title>
+        <link>https://www.oser.space/post/2020badnews/</link>
+        <pubDate>Thu, 16 Jan 2020 00:17:44 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Tue, 26 May 2020 20:57:51 +0800</atom:modified>
+        <guid>https://www.oser.space/post/2020badnews/</guid>
+        <description>2020年1月15号，靠日志定位大概是早晨8点半的左右，深圳电信封掉了443端口，也就是说现在即使能申请到公网IP，也无法通过标准的端口访问非商用宽带的WEB页面了。 我以前写的通过</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>吐槽</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>用户态文件系统，Dokany驱动代码分析</title>
+        <link>https://www.oser.space/post/dokany_sys/</link>
+        <pubDate>Fri, 13 Dec 2019 17:41:17 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:08:37 +0800</atom:modified>
+        <guid>https://www.oser.space/post/dokany_sys/</guid>
+        <description>前言 Dokany是一个Windows应用层的文件系统，还支持FUSE接口，google的Drive用的就是此驱动来映射驱动盘，此篇文章主要分析Dokany从应用层调用到驱动层的架构</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/dokany_sys/2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows内核</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>C&#43;&#43;变参宏的一个跨平台兼容问题</title>
+        <link>https://www.oser.space/post/trailing_comma/</link>
+        <pubDate>Wed, 04 Dec 2019 09:14:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:19:32 +0800</atom:modified>
+        <guid>https://www.oser.space/post/trailing_comma/</guid>
+        <description>由一个尾部逗号的问题，会引发不同平台编译器对变参宏的展开的问题，比如如下的一个例子： #define NEW_LOG(formatmsg, ...) fprintf(stdout, &amp;quot;%s(%u): &amp;quot; formatmsg &amp;quot;\n&amp;quot;, __FILE__, __LINE__, __VA_ARGS__) 如果传一个可变参数，则编译正常 NEW_LOG(&amp;quot;test for num: %d&amp;quot;, 100); 这时候宏展开是这样的 fprintf(stdout, &amp;quot;%s(%u): test for num: %d\n&amp;quot;, __FILE__,</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>C&#43;&#43;</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>庆国庆网站换皮换评论及其他</title>
+        <link>https://www.oser.space/post/somethingnew/</link>
+        <pubDate>Sun, 03 Nov 2019 05:07:08 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:48:59 +0800</atom:modified>
+        <guid>https://www.oser.space/post/somethingnew/</guid>
+        <description>趁着祖国庆生的大好日子，把博客整理了一下，换了个简约的theme，用isso弄了套评论系统，替换掉了github的利用issues的评论系统，由于以前那套评论系统一是评论起来需要注</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>保存一下京东爬虫代码</title>
+        <link>https://www.oser.space/post/jdcrawler/</link>
+        <pubDate>Tue, 04 Jun 2019 11:31:03 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:22:49 +0800</atom:modified>
+        <guid>https://www.oser.space/post/jdcrawler/</guid>
+        <description>大强子哥的京东是一个很好的数据源，他家的京东不像淘宝这么坑，为了守着点数据还投毒，还要搞phantomjs的特征识别，对比一下京东对爬虫真的是很友好。 那么爬数据也是很简单的事了，以</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Magic Packets远程开机的代码</title>
+        <link>https://www.oser.space/post/remoteboot/</link>
+        <pubDate>Tue, 04 Jun 2019 09:28:37 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:23:21 +0800</atom:modified>
+        <guid>https://www.oser.space/post/remoteboot/</guid>
+        <description>前阵子在少数派上写了一篇水文发表在这里把手机变为生产力工具，打造免费的华为云电脑 https://sspai.com/post/52303，老婆那时候赞助我买的华为大屏手机，我才想着</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>安卓Markdown云同步文档工具OneJotter</title>
+        <link>https://www.oser.space/post/onejotterapp/</link>
+        <pubDate>Mon, 03 Jun 2019 22:44:02 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sun, 28 Jun 2020 15:13:28 +0800</atom:modified>
+        <guid>https://www.oser.space/post/onejotterapp/</guid>
+        <description>谢谢大家一直关注这个项目，看到一直有搜索过来的不少用户，最近本来是想简单修复一些明显的bug做个小更新，但是评估后发现问题太多不能忍，对于追求完美的人来说，还是眼里揉不得沙，与其东</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/onejotterapp/app_sync.gif" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>oneJotter</category>
+            
+          
+            
+              <category>android</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>记录域名被莫名其妙停止解析两天的心路历程</title>
+        <link>https://www.oser.space/post/dnsissus/</link>
+        <pubDate>Thu, 18 Apr 2019 05:00:07 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Tue, 26 May 2020 21:03:02 +0800</atom:modified>
+        <guid>https://www.oser.space/post/dnsissus/</guid>
+        <description>风和日丽的一天下午，我正在开心的码代码，突然操作系统提示连接家里路由的VPN断开了，我想着可能又是网络波动，没当一回事， 于是继续快乐的干活，后来无意发现我网站也访问不了，然后pin</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows驱动开发总结(二)</title>
+        <link>https://www.oser.space/post/driver2/</link>
+        <pubDate>Thu, 06 Sep 2018 03:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:08:14 +0800</atom:modified>
+        <guid>https://www.oser.space/post/driver2/</guid>
+        <description>同步异步的两种用法 FILE_FLAG_OVERLAPPED异步打开参数 在CreateFile打开设备对象时 1 2 3 4 5 6 7 8 9 HANDLE CreateFile( LPCSTR lpFileName, DWORD dwDesiredAccess, DWORD dwShareMode, LPSECURITY_ATTRIBUTES lpSecurityAttributes, DWORD dwCreationDisposition, DWORD dwFlagsAndAttributes, //FILE_FLAG_OVERLAPPED HANDLE hTemplateFile ); 加入FILE_FLA</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/driver2/1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows内核</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows驱动开发总结(一)</title>
+        <link>https://www.oser.space/post/driver1/</link>
+        <pubDate>Mon, 06 Aug 2018 05:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:08:52 +0800</atom:modified>
+        <guid>https://www.oser.space/post/driver1/</guid>
+        <description>最近在公司给同学们分享windows驱动和一些系统内核知识，顺便把总结的文档发一下做备忘记录。 1. windows内核对象 每个对象都有对象头和对象体组成。所有类型的对象头结构都是相同的</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/driver1/1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows内核</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>上次说到开发博客发布的事的后续</title>
+        <link>https://www.oser.space/post/devblogapp/</link>
+        <pubDate>Sun, 29 Jul 2018 16:30:08 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 23:37:44 +0800</atom:modified>
+        <guid>https://www.oser.space/post/devblogapp/</guid>
+        <description>上次说到要动一动博客，后来一直申请不到有道云笔记的开发者权限就作罢了。 后来发现国内的坚果云才是真正能替代dropbox的云服务，坚果云用的是webdav协议，貌似比较小众，一般用r</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>斯里兰卡游记</title>
+        <link>https://www.oser.space/post/srilankan/</link>
+        <pubDate>Sat, 07 Jul 2018 16:00:07 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sat, 31 Oct 2020 12:49:44 +0800</atom:modified>
+        <guid>https://www.oser.space/post/srilankan/</guid>
+        <description>开始的时候我真是孤陋寡闻不知道斯里兰卡原来是个主权国家，以为只是某个旅游城市，这个在地图形状像水滴一样的国家被喻为在印度洋的一滴眼泪，总面积6万多平方公里，人口差不多2000多万，</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/srilankan/6.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>游记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>发一个golang的记录cookie自动登陆web的部分代码</title>
+        <link>https://www.oser.space/post/go_autologin/</link>
+        <pubDate>Wed, 16 May 2018 06:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:20:39 +0800</atom:modified>
+        <guid>https://www.oser.space/post/go_autologin/</guid>
+        <description>前言 这段代码是很早以前为了自动抢公司oa上的福利写的，就跟阿里那抢月饼福利类似的，后来我需要的福利不用抢了，这代码也就废弃好久不用了，最近go写的很少，怕把语法都忘了，所以写下来记</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>动动博客结构的一些思路</title>
+        <link>https://www.oser.space/post/somenew1/</link>
+        <pubDate>Tue, 17 Apr 2018 13:00:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:48:37 +0800</atom:modified>
+        <guid>https://www.oser.space/post/somenew1/</guid>
+        <description>最近想动一下博客，把对各种路由的兼容性及发布给大改一下，一来可以更广泛的兼容设备，方便迁移，二来可以更便利的发布也省得麻烦的科学上网了，思路是这样的。 hugo作者推荐了用Caddy</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>upx压缩壳源码分析的一些关键点</title>
+        <link>https://www.oser.space/post/upx/</link>
+        <pubDate>Mon, 05 Mar 2018 02:00:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:19:57 +0800</atom:modified>
+        <guid>https://www.oser.space/post/upx/</guid>
+        <description>最近工作需要研究了一下upx针对可执行文件的压缩算法，就顺便理了一下代码的框架，下面大概的给一个分析过程。 编译调试 upx还是需要在32位linux下编译调试比较方便，windows</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>C&#43;&#43;</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>2018新的一年</title>
+        <link>https://www.oser.space/post/newyear2018/</link>
+        <pubDate>Fri, 05 Jan 2018 14:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:58:02 +0800</atom:modified>
+        <guid>https://www.oser.space/post/newyear2018/</guid>
+        <description>今年其实是挺波折的一年，遭遇了各种不顺心。 但是想一想自己身上的问题也很多，人总是在起伏跌宕中生活着。 有时候我甚至迷信了命运的说辞，但是踌躇再三还是相信事在人为，轻易怎能认命。 最近一</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>十一假期日本大阪游</title>
+        <link>https://www.oser.space/post/jp_travel/</link>
+        <pubDate>Tue, 10 Oct 2017 10:00:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:11:56 +0800</atom:modified>
+        <guid>https://www.oser.space/post/jp_travel/</guid>
+        <description>十一真堕落啊，跑出国玩了一圈，没看一页书，没写一行代码，不过放假就要有休息的样子对吧，放几张照片上来留作纪念。 从香港机场出发，据说香港捷运大罢工，取消了好几个航班，吓的我老婆差点以</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/jp_travel/3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>游记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>开源一个go语言爬虫框架</title>
+        <link>https://www.oser.space/post/grabant_1/</link>
+        <pubDate>Mon, 25 Sep 2017 00:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:21:50 +0800</atom:modified>
+        <guid>https://www.oser.space/post/grabant_1/</guid>
+        <description>借鉴了一个商业化的爬虫框架神箭手（读书人的事，怎么能叫抄呢）,用go语言造了个轮子，源码地址 https://github.com/oserz/grabant 说明 一些相关解释及说明如下： 扫描页是直接配置的一级页面，这个页面扫描的结果是抓取列表页</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>爬虫</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>记录一下AVD安卓虚拟机在ubuntu不能开启硬件渲染的解决</title>
+        <link>https://www.oser.space/post/avd_graph_hardware/</link>
+        <pubDate>Sat, 19 Aug 2017 08:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:50:58 +0800</atom:modified>
+        <guid>https://www.oser.space/post/avd_graph_hardware/</guid>
+        <description>在ubuntu下开启安卓虚拟机， 使用x86 image，开启硬件渲染会有报错 比如运行如下命令用kvm加速打开虚拟机 ~/Android/Sdk/tools/emulator -avd debugDevice_API_25 -qemu -m 2047 -enable-kvm 会有类似如下的报错 libGL error: unable to load driver: i965_dri.so libGL error: driver pointer missing libGL error: failed to load driver:</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>android</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>斐讯K2-22.4.6.3版本漏洞页面直刷breed的正确姿势</title>
+        <link>https://www.oser.space/post/phicomm_flash/</link>
+        <pubDate>Thu, 10 Aug 2017 04:00:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:54:22 +0800</atom:modified>
+        <guid>https://www.oser.space/post/phicomm_flash/</guid>
+        <description>现在这种绑定P2P金融的免费的路由吹的都挺火，斐讯K2应该是研究最多的一款，可刷的rom也很多，在恩山上有一个利用后台管理web漏洞直刷breed的方法，原帖在这里 但实际上相同的版</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（三）</title>
+        <link>https://www.oser.space/post/how_to_build_blog3/</link>
+        <pubDate>Thu, 10 Aug 2017 01:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 20:20:30 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog3/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 前面两篇已经可以完整的运行一个博客系</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/how_to_build_blog3/bkgbmp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（二）</title>
+        <link>https://www.oser.space/post/how_to_build_blog2/</link>
+        <pubDate>Wed, 09 Aug 2017 10:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:46:54 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog2/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 第一篇讲了怎么开https端口申请证</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://pic44.photophoto.cn/20170727/0005018340528236_b.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（一）</title>
+        <link>https://www.oser.space/post/how_to_build_blog1/</link>
+        <pubDate>Thu, 27 Jul 2017 03:00:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 20:20:05 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog1/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 这阵子为了某个不能说的原因root了</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://photocdn.sohu.com/20131121/Img390526711.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>dropbox同步测试</title>
+        <link>https://www.oser.space/post/dropbox_sync_test/</link>
+        <pubDate>Thu, 13 Jul 2017 12:30:11 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:57:34 +0800</atom:modified>
+        <guid>https://www.oser.space/post/dropbox_sync_test/</guid>
+        <description>这是一个关于dropbox的同步测试 手机app markdownX或其他任何设备的文档上传到dropbox 路由器上运行的脚本定时拉取文档，并同步发布更新到博客上 如果能看到这篇文章，说</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>现更新新域名https://oser.space</title>
+        <link>https://www.oser.space/post/notice/</link>
+        <pubDate>Thu, 06 Jul 2017 02:43:11 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 06 Jul 2017 02:43:11 +0000</atom:modified>
+        <guid>https://www.oser.space/post/notice/</guid>
+        <description>域名更改，现在请访问https://oser.space 原f3322的免费域名还是不用了，主要是这种域名都是病毒跳转专用了，放到qq上都是标红的警告域名， 本来想把以前抢注的一个域名</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>notice</category>
+            
+          
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>第一篇</title>
+        <link>https://www.oser.space/post/begin/</link>
+        <pubDate>Sun, 02 Jul 2017 15:26:03 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:57:03 +0800</atom:modified>
+        <guid>https://www.oser.space/post/begin/</guid>
+        <description>Hello World! 大家好，这是一个跑在路由器上的博客，感谢还算比较好用能折腾的过保后root了的极路由2，感谢以下用到的相关技术及非技术 公云的DDNS映射的动态域名 强大且无需二进制依赖并可轻松编</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>First</category>
+            
+          
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

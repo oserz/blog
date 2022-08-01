@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Windows开发调试 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/windows%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95/</link>
+    <description>Recent content in Windows开发调试 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 31 May 2020 15:42:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/windows%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>新版本Windbg的TTD调试技术</title>
+        <link>https://www.oser.space/post/fedc2467-03cf-42dd-8434-934a5524280d/</link>
+        <pubDate>Sun, 31 May 2020 15:42:00 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 22 Jul 2020 11:38:35 +0800</atom:modified>
+        <guid>https://www.oser.space/post/fedc2467-03cf-42dd-8434-934a5524280d/</guid>
+        <description>微软的新调试技术TTD Windows最近改动很大，除了20H1大版本上备受关注的WSL2和新的终端Terminal，其实在调试这块，新版本的Windbg preview也值得期待，开</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space//img/%E6%96%B0%E7%89%88%E6%9C%ACWindbg%E7%9A%84TTD%E8%B0%83%E8%AF%95%E6%8A%80%E6%9C%AF/windbg1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Windows开发调试</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

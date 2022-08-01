@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>破解 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/%E7%A0%B4%E8%A7%A3/</link>
+    <description>Recent content in 破解 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 27 May 2020 17:06:31 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/%E7%A0%B4%E8%A7%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>SourceInsight4.00.0098的破解</title>
+        <link>https://www.oser.space/post/e5943765-2efe-48e4-b0a8-fc4034f13775/</link>
+        <pubDate>Wed, 27 May 2020 17:06:31 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:06:31 +0800</atom:modified>
+        <guid>https://www.oser.space/post/e5943765-2efe-48e4-b0a8-fc4034f13775/</guid>
+        <description>开头 能用到的这款代码分析软件的一般都熟悉，我就懒得介绍了，开始是不想折腾去逆向source insight的，后来网上搜好像找不到最新的破解版本，所以就自己花了点时间搞定了最新版本4</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/si40098/si2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>破解</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/</link>
+    <description>Recent content in Tags on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 31 May 2020 15:42:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Windows开发调试</title>
+        <link>https://www.oser.space/tags/windows%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95/</link>
+        <pubDate>Sun, 31 May 2020 15:42:00 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/windows%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>建站</title>
+        <link>https://www.oser.space/tags/%E5%BB%BA%E7%AB%99/</link>
+        <pubDate>Thu, 28 May 2020 17:06:24 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/%E5%BB%BA%E7%AB%99/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>破解</title>
+        <link>https://www.oser.space/tags/%E7%A0%B4%E8%A7%A3/</link>
+        <pubDate>Wed, 27 May 2020 17:06:31 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/%E7%A0%B4%E8%A7%A3/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Golang</title>
+        <link>https://www.oser.space/tags/golang/</link>
+        <pubDate>Wed, 15 Apr 2020 00:22:52 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/golang/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>吐槽</title>
+        <link>https://www.oser.space/tags/%E5%90%90%E6%A7%BD/</link>
+        <pubDate>Thu, 16 Jan 2020 00:17:44 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/%E5%90%90%E6%A7%BD/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows内核</title>
+        <link>https://www.oser.space/tags/windows%E5%86%85%E6%A0%B8/</link>
+        <pubDate>Fri, 13 Dec 2019 17:41:17 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/windows%E5%86%85%E6%A0%B8/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>C&#43;&#43;</title>
+        <link>https://www.oser.space/tags/c&#43;&#43;/</link>
+        <pubDate>Wed, 04 Dec 2019 09:14:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/c&#43;&#43;/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>android</title>
+        <link>https://www.oser.space/tags/android/</link>
+        <pubDate>Mon, 03 Jun 2019 22:44:02 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/android/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>oneJotter</title>
+        <link>https://www.oser.space/tags/onejotter/</link>
+        <pubDate>Mon, 03 Jun 2019 22:44:02 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/onejotter/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>爬虫</title>
+        <link>https://www.oser.space/tags/%E7%88%AC%E8%99%AB/</link>
+        <pubDate>Mon, 25 Sep 2017 00:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/%E7%88%AC%E8%99%AB/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>玩玩路由</title>
+        <link>https://www.oser.space/tags/%E7%8E%A9%E7%8E%A9%E8%B7%AF%E7%94%B1/</link>
+        <pubDate>Thu, 10 Aug 2017 04:00:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/%E7%8E%A9%E7%8E%A9%E8%B7%AF%E7%94%B1/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>notice</title>
+        <link>https://www.oser.space/tags/notice/</link>
+        <pubDate>Thu, 06 Jul 2017 02:43:11 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/notice/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>First</title>
+        <link>https://www.oser.space/tags/first/</link>
+        <pubDate>Sun, 02 Jul 2017 15:26:03 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        
+        <guid>https://www.oser.space/tags/first/</guid>
+        <description></description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>吐槽 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/%E5%90%90%E6%A7%BD/</link>
+    <description>Recent content in 吐槽 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 16 Jan 2020 00:17:44 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/%E5%90%90%E6%A7%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>2020年初的一个噩耗</title>
+        <link>https://www.oser.space/post/2020badnews/</link>
+        <pubDate>Thu, 16 Jan 2020 00:17:44 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Tue, 26 May 2020 20:57:51 +0800</atom:modified>
+        <guid>https://www.oser.space/post/2020badnews/</guid>
+        <description>2020年1月15号，靠日志定位大概是早晨8点半的左右，深圳电信封掉了443端口，也就是说现在即使能申请到公网IP，也无法通过标准的端口访问非商用宽带的WEB页面了。 我以前写的通过</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>吐槽</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>建站 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 May 2020 17:06:24 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>开发完成了网站的自动同步功能，写一些建站的那些小事</title>
+        <link>https://www.oser.space/post/916a48b7-55a4-4f78-a84a-d19e0ee85e01/</link>
+        <pubDate>Thu, 28 May 2020 17:06:24 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sun, 31 May 2020 19:00:21 +0800</atom:modified>
+        <guid>https://www.oser.space/post/916a48b7-55a4-4f78-a84a-d19e0ee85e01/</guid>
+        <description>几年前写了几篇如何在路由器上自建博客的文章，现在这篇文章主要是为以前的文章做补充总结和说明，鉴于一些朋友对这很有兴趣，所以要讲一下为什么用以前文章写的方式现在无法成功 在443端口未</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>2020年初的一个噩耗</title>
+        <link>https://www.oser.space/post/2020badnews/</link>
+        <pubDate>Thu, 16 Jan 2020 00:17:44 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Tue, 26 May 2020 20:57:51 +0800</atom:modified>
+        <guid>https://www.oser.space/post/2020badnews/</guid>
+        <description>2020年1月15号，靠日志定位大概是早晨8点半的左右，深圳电信封掉了443端口，也就是说现在即使能申请到公网IP，也无法通过标准的端口访问非商用宽带的WEB页面了。 我以前写的通过</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>吐槽</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>庆国庆网站换皮换评论及其他</title>
+        <link>https://www.oser.space/post/somethingnew/</link>
+        <pubDate>Sun, 03 Nov 2019 05:07:08 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:48:59 +0800</atom:modified>
+        <guid>https://www.oser.space/post/somethingnew/</guid>
+        <description>趁着祖国庆生的大好日子，把博客整理了一下，换了个简约的theme，用isso弄了套评论系统，替换掉了github的利用issues的评论系统，由于以前那套评论系统一是评论起来需要注</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>记录域名被莫名其妙停止解析两天的心路历程</title>
+        <link>https://www.oser.space/post/dnsissus/</link>
+        <pubDate>Thu, 18 Apr 2019 05:00:07 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Tue, 26 May 2020 21:03:02 +0800</atom:modified>
+        <guid>https://www.oser.space/post/dnsissus/</guid>
+        <description>风和日丽的一天下午，我正在开心的码代码，突然操作系统提示连接家里路由的VPN断开了，我想着可能又是网络波动，没当一回事， 于是继续快乐的干活，后来无意发现我网站也访问不了，然后pin</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>上次说到开发博客发布的事的后续</title>
+        <link>https://www.oser.space/post/devblogapp/</link>
+        <pubDate>Sun, 29 Jul 2018 16:30:08 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 23:37:44 +0800</atom:modified>
+        <guid>https://www.oser.space/post/devblogapp/</guid>
+        <description>上次说到要动一动博客，后来一直申请不到有道云笔记的开发者权限就作罢了。 后来发现国内的坚果云才是真正能替代dropbox的云服务，坚果云用的是webdav协议，貌似比较小众，一般用r</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>动动博客结构的一些思路</title>
+        <link>https://www.oser.space/post/somenew1/</link>
+        <pubDate>Tue, 17 Apr 2018 13:00:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:48:37 +0800</atom:modified>
+        <guid>https://www.oser.space/post/somenew1/</guid>
+        <description>最近想动一下博客，把对各种路由的兼容性及发布给大改一下，一来可以更广泛的兼容设备，方便迁移，二来可以更便利的发布也省得麻烦的科学上网了，思路是这样的。 hugo作者推荐了用Caddy</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（三）</title>
+        <link>https://www.oser.space/post/how_to_build_blog3/</link>
+        <pubDate>Thu, 10 Aug 2017 01:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 20:20:30 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog3/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 前面两篇已经可以完整的运行一个博客系</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/how_to_build_blog3/bkgbmp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（二）</title>
+        <link>https://www.oser.space/post/how_to_build_blog2/</link>
+        <pubDate>Wed, 09 Aug 2017 10:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:46:54 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog2/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 第一篇讲了怎么开https端口申请证</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://pic44.photophoto.cn/20170727/0005018340528236_b.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（一）</title>
+        <link>https://www.oser.space/post/how_to_build_blog1/</link>
+        <pubDate>Thu, 27 Jul 2017 03:00:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 20:20:05 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog1/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 这阵子为了某个不能说的原因root了</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://photocdn.sohu.com/20131121/Img390526711.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

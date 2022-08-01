@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>玩玩路由 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/%E7%8E%A9%E7%8E%A9%E8%B7%AF%E7%94%B1/</link>
+    <description>Recent content in 玩玩路由 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 10 Aug 2017 04:00:06 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/%E7%8E%A9%E7%8E%A9%E8%B7%AF%E7%94%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>斐讯K2-22.4.6.3版本漏洞页面直刷breed的正确姿势</title>
+        <link>https://www.oser.space/post/phicomm_flash/</link>
+        <pubDate>Thu, 10 Aug 2017 04:00:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:54:22 +0800</atom:modified>
+        <guid>https://www.oser.space/post/phicomm_flash/</guid>
+        <description>现在这种绑定P2P金融的免费的路由吹的都挺火，斐讯K2应该是研究最多的一款，可刷的rom也很多，在恩山上有一个利用后台管理web漏洞直刷breed的方法，原帖在这里 但实际上相同的版</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（三）</title>
+        <link>https://www.oser.space/post/how_to_build_blog3/</link>
+        <pubDate>Thu, 10 Aug 2017 01:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 20:20:30 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog3/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 前面两篇已经可以完整的运行一个博客系</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/how_to_build_blog3/bkgbmp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（二）</title>
+        <link>https://www.oser.space/post/how_to_build_blog2/</link>
+        <pubDate>Wed, 09 Aug 2017 10:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 Jan 2021 19:46:54 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog2/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 第一篇讲了怎么开https端口申请证</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://pic44.photophoto.cn/20170727/0005018340528236_b.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>如何在家庭路由器上搭博客（一）</title>
+        <link>https://www.oser.space/post/how_to_build_blog1/</link>
+        <pubDate>Thu, 27 Jul 2017 03:00:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 28 May 2020 20:20:05 +0800</atom:modified>
+        <guid>https://www.oser.space/post/how_to_build_blog1/</guid>
+        <description>此文章是17年中完成的，此方法已经不可用，但文章仍有一部分参考意义，如果想深究，请移步到新文章开发完成了网站的自动同步功能，写一些建站的那些小事 这阵子为了某个不能说的原因root了</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/http://photocdn.sohu.com/20131121/Img390526711.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>建站</category>
+            
+          
+            
+              <category>玩玩路由</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

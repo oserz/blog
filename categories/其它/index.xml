@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>其它 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/categories/%E5%85%B6%E5%AE%83/</link>
+    <description>Recent content in 其它 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 23 Dec 2020 11:58:23 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/categories/%E5%85%B6%E5%AE%83/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>给艰难的2020做一个总结</title>
+        <link>https://www.oser.space/post/a93ca7a9-e069-4165-af8b-f4463f2a26f0/</link>
+        <pubDate>Wed, 23 Dec 2020 11:58:23 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 24 Dec 2020 11:08:02 +0800</atom:modified>
+        <guid>https://www.oser.space/post/a93ca7a9-e069-4165-af8b-f4463f2a26f0/</guid>
+        <description>赶在2020年末还差几天，把今年做的事写一个小总结。 今年是过的特别不容易的一年，有喜有悲大起大落，喜的是下半年我的女儿出生了顺利的接回家到深圳，这对我来说是一件非常不容易的事，出生</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space//img/%E7%BB%99%E8%89%B0%E9%9A%BE%E7%9A%842020%E5%81%9A%E4%B8%80%E4%B8%AA%E6%80%BB%E7%BB%93/1024-1365.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>2018新的一年</title>
+        <link>https://www.oser.space/post/newyear2018/</link>
+        <pubDate>Fri, 05 Jan 2018 14:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:58:02 +0800</atom:modified>
+        <guid>https://www.oser.space/post/newyear2018/</guid>
+        <description>今年其实是挺波折的一年，遭遇了各种不顺心。 但是想一想自己身上的问题也很多，人总是在起伏跌宕中生活着。 有时候我甚至迷信了命运的说辞，但是踌躇再三还是相信事在人为，轻易怎能认命。 最近一</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>dropbox同步测试</title>
+        <link>https://www.oser.space/post/dropbox_sync_test/</link>
+        <pubDate>Thu, 13 Jul 2017 12:30:11 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:57:34 +0800</atom:modified>
+        <guid>https://www.oser.space/post/dropbox_sync_test/</guid>
+        <description>这是一个关于dropbox的同步测试 手机app markdownX或其他任何设备的文档上传到dropbox 路由器上运行的脚本定时拉取文档，并同步发布更新到博客上 如果能看到这篇文章，说</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>现更新新域名https://oser.space</title>
+        <link>https://www.oser.space/post/notice/</link>
+        <pubDate>Thu, 06 Jul 2017 02:43:11 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 06 Jul 2017 02:43:11 +0000</atom:modified>
+        <guid>https://www.oser.space/post/notice/</guid>
+        <description>域名更改，现在请访问https://oser.space 原f3322的免费域名还是不用了，主要是这种域名都是病毒跳转专用了，放到qq上都是标红的警告域名， 本来想把以前抢注的一个域名</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>notice</category>
+            
+          
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>第一篇</title>
+        <link>https://www.oser.space/post/begin/</link>
+        <pubDate>Sun, 02 Jul 2017 15:26:03 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:57:03 +0800</atom:modified>
+        <guid>https://www.oser.space/post/begin/</guid>
+        <description>Hello World! 大家好，这是一个跑在路由器上的博客，感谢还算比较好用能折腾的过保后root了的极路由2，感谢以下用到的相关技术及非技术 公云的DDNS映射的动态域名 强大且无需二进制依赖并可轻松编</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>First</category>
+            
+          
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

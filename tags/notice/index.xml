@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>notice on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/notice/</link>
+    <description>Recent content in notice on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 06 Jul 2017 02:43:11 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/notice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>现更新新域名https://oser.space</title>
+        <link>https://www.oser.space/post/notice/</link>
+        <pubDate>Thu, 06 Jul 2017 02:43:11 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Thu, 06 Jul 2017 02:43:11 +0000</atom:modified>
+        <guid>https://www.oser.space/post/notice/</guid>
+        <description>域名更改，现在请访问https://oser.space 原f3322的免费域名还是不用了，主要是这种域名都是病毒跳转专用了，放到qq上都是标红的警告域名， 本来想把以前抢注的一个域名</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>notice</category>
+            
+          
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

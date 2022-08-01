@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>游记 on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/categories/%E6%B8%B8%E8%AE%B0/</link>
+    <description>Recent content in 游记 on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 07 Jul 2018 16:00:07 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/categories/%E6%B8%B8%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>斯里兰卡游记</title>
+        <link>https://www.oser.space/post/srilankan/</link>
+        <pubDate>Sat, 07 Jul 2018 16:00:07 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sat, 31 Oct 2020 12:49:44 +0800</atom:modified>
+        <guid>https://www.oser.space/post/srilankan/</guid>
+        <description>开始的时候我真是孤陋寡闻不知道斯里兰卡原来是个主权国家，以为只是某个旅游城市，这个在地图形状像水滴一样的国家被喻为在印度洋的一滴眼泪，总面积6万多平方公里，人口差不多2000多万，</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/srilankan/6.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>游记</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>十一假期日本大阪游</title>
+        <link>https://www.oser.space/post/jp_travel/</link>
+        <pubDate>Tue, 10 Oct 2017 10:00:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 17:11:56 +0800</atom:modified>
+        <guid>https://www.oser.space/post/jp_travel/</guid>
+        <description>十一真堕落啊，跑出国玩了一圈，没看一页书，没写一行代码，不过放假就要有休息的样子对吧，放几张照片上来留作纪念。 从香港机场出发，据说香港捷运大罢工，取消了好几个航班，吓的我老婆差点以</description>
+        
+        <dc:creator>oser</dc:creator>
+        <media:content url="https://www.oser.space/https://oser.space/img/jp_travel/3.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>游记</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

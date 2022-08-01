@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Golang on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/golang/</link>
+    <description>Recent content in Golang on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 15 Apr 2020 00:22:52 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Go在windows上调用本地进程传参时的一个天坑</title>
+        <link>https://www.oser.space/post/gocmd/</link>
+        <pubDate>Wed, 15 Apr 2020 00:22:52 +0800</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Sun, 23 Aug 2020 23:27:42 +0800</atom:modified>
+        <guid>https://www.oser.space/post/gocmd/</guid>
+        <description>go在windows上exec.Command调用本地进程在传参的时候有一个天坑，举个栗子来说正常来说一般代码会这么写 1 2 3 cmdLine := &amp;#34;notepad.exe &amp;#34; + `&amp;#34;D:\Program Files\Notepad++\session.xml&amp;#34;` cmd := exec.Command(&amp;#34;cmd.exe&amp;#34;, &amp;#34;/c&amp;#34;, cmdLine) err := cmd.Run() 我们期望在拉起notepa</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>保存一下京东爬虫代码</title>
+        <link>https://www.oser.space/post/jdcrawler/</link>
+        <pubDate>Tue, 04 Jun 2019 11:31:03 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:22:49 +0800</atom:modified>
+        <guid>https://www.oser.space/post/jdcrawler/</guid>
+        <description>大强子哥的京东是一个很好的数据源，他家的京东不像淘宝这么坑，为了守着点数据还投毒，还要搞phantomjs的特征识别，对比一下京东对爬虫真的是很友好。 那么爬数据也是很简单的事了，以</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Magic Packets远程开机的代码</title>
+        <link>https://www.oser.space/post/remoteboot/</link>
+        <pubDate>Tue, 04 Jun 2019 09:28:37 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:23:21 +0800</atom:modified>
+        <guid>https://www.oser.space/post/remoteboot/</guid>
+        <description>前阵子在少数派上写了一篇水文发表在这里把手机变为生产力工具，打造免费的华为云电脑 https://sspai.com/post/52303，老婆那时候赞助我买的华为大屏手机，我才想着</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>发一个golang的记录cookie自动登陆web的部分代码</title>
+        <link>https://www.oser.space/post/go_autologin/</link>
+        <pubDate>Wed, 16 May 2018 06:30:06 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:20:39 +0800</atom:modified>
+        <guid>https://www.oser.space/post/go_autologin/</guid>
+        <description>前言 这段代码是很早以前为了自动抢公司oa上的福利写的，就跟阿里那抢月饼福利类似的，后来我需要的福利不用抢了，这代码也就废弃好久不用了，最近go写的很少，怕把语法都忘了，所以写下来记</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>开源一个go语言爬虫框架</title>
+        <link>https://www.oser.space/post/grabant_1/</link>
+        <pubDate>Mon, 25 Sep 2017 00:30:05 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 00:21:50 +0800</atom:modified>
+        <guid>https://www.oser.space/post/grabant_1/</guid>
+        <description>借鉴了一个商业化的爬虫框架神箭手（读书人的事，怎么能叫抄呢）,用go语言造了个轮子，源码地址 https://github.com/oserz/grabant 说明 一些相关解释及说明如下： 扫描页是直接配置的一级页面，这个页面扫描的结果是抓取列表页</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>爬虫</category>
+            
+          
+        
+        
+          
+            
+              <category>技术相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

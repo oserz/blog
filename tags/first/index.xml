@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>First on Oser&#39;s Blog</title>
+    <link>https://www.oser.space/tags/first/</link>
+    <description>Recent content in First on Oser&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zmstc1234@qq.com (oser)</managingEditor>
+    <webMaster>zmstc1234@qq.com (oser)</webMaster>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 02 Jul 2017 15:26:03 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.oser.space/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>第一篇</title>
+        <link>https://www.oser.space/post/begin/</link>
+        <pubDate>Sun, 02 Jul 2017 15:26:03 +0000</pubDate>
+        <author>zmstc1234@qq.com (oser)</author>
+        <atom:modified>Wed, 27 May 2020 11:57:03 +0800</atom:modified>
+        <guid>https://www.oser.space/post/begin/</guid>
+        <description>Hello World! 大家好，这是一个跑在路由器上的博客，感谢还算比较好用能折腾的过保后root了的极路由2，感谢以下用到的相关技术及非技术 公云的DDNS映射的动态域名 强大且无需二进制依赖并可轻松编</description>
+        
+        <dc:creator>oser</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>First</category>
+            
+          
+        
+        
+          
+            
+              <category>其它</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
